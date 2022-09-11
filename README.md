@@ -1,10 +1,12 @@
 
 ### Hey, I'm Lucas <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="wave">
 
-Hey again, I'm Lucas, a Canadian Programmer and Student. I like to program video games, websites, and other things I can think of.
+I'm Lucas, a student and programmer from Canada.
+<br>I write code for websites, video games (including my current attempt), and other weirdness.
+<br>I also enjoy creating music and designing and animating. 
 
 ---
-#### <br> What laungages do I know?
+#### What laungages do I know?
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=1e1e1e&logo=python&logoColor=3776AB)](#)
 [![Godot Badge](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&labelColor=1e1e1e&logo=godotengine&logoColor=478CBF)](#)
