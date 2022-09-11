@@ -18,7 +18,7 @@ I'm ***Lucas***, a student and programmer from Canada.
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=1C1E20&logo=javascript&logoColor=F7DF1E)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=1C1E20&logo=react&logoColor=61DAFB)](#)
-[![Godot Badge](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&labelColor=1C1E20&logo=godotengine&logoColor=478CBF)](#)
+[![Godot Badge](https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&labelColor=1C1E20&logo=godotengine&logoColor=478CBF)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=1C1E20&logo=python&logoColor=3776AB)](#)
 [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=1C1E20&logo=sass&logoColor=CC6699)](#)
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=1C1E20&logo=html5&logoColor=E34F26)](#)
