@@ -28,6 +28,7 @@ I'm ***Lucas***, a student and programmer from Canada.
 
 [![Godot Badge](https://img.shields.io/badge/-Godot&nbsp;Engine-478CBF?style=for-the-badge&labelColor=1C1E20&logo=godotengine&logoColor=478CBF)](#)
 [![VS Code Badge](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-007ACC?style=for-the-badge&labelColor=1C1E20&logo=visualstudiocode&logoColor=007ACC)](#)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=for-the-badge&labelColor=1C1E20&logo=github&logoColor=FFFFFF)](#)
 
 #### My statisitcs:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=strabbyjam&show_icons=true&theme=prussian)
