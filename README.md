@@ -1,11 +1,14 @@
+<img src="https://images.unsplash.com/photo-1510710905590-acf9281a20c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 ### Hey, I'm Lucas <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="wave">
 
-I'm Lucas, a student and programmer from Canada.
+I'm ***Lucas***, a student and programmer from Canada.
 <br>I write code for websites, video games (including my current attempt), and other weirdness.
-<br>I also enjoy creating music and designing and animating. 
+<br>I also enjoy creating music and designing and animating.
 
 ---
+
+
 #### What laungages do I know?
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=1e1e1e&logo=python&logoColor=3776AB)](#)
