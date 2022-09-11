@@ -1,6 +1,6 @@
 ## Hey, I'm Lucas <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="wave">
 
-I'm ***Lucas***, a student and programmer from Canada.
+<br>I'm ***Lucas***, a student and programmer from Canada.
 <br>I write code for terrible experements, video games (including my current attempt), and some websites.
 <br>I also enjoy creating music and designing and animating.
 
